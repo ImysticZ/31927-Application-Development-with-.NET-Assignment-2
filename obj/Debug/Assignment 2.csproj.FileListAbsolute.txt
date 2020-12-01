@@ -1,0 +1,12 @@
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Login.resources
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment_2.New_User.resources
+C:\Users\Clare\source\repos\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Text_Editor.resources
